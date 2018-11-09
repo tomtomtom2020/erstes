@@ -1,0 +1,6 @@
+echo "# erstes" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git Remote-Ursprungsursprung https://github.com/tomtomtom2020/erstes.git
+ git push -u Ursprungsmaster
